@@ -14,4 +14,4 @@ Step 4: Set Up JSP Files:
   Paste all .jsp files into the src/main/webapp folder of your project.
 Step 5: MySQL Configuration: Ensure MySQL is configured to run on port 8080. If your MySQL setup is using a different port, update it to 8080 in the configuration.
 Step 6: create database for the username  "bookstoreuser"
-Step 6: create database for the Books "bookstore"
+Step 7: create database for the Books "bookstore"
